@@ -1,0 +1,8 @@
+<header,footer{border-style: solid;
+text-aling: center;
+}
+
+img{border-style: double;
+transition: all 0.8s
+}
+img:hover
